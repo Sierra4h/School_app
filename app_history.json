@@ -1,0 +1,89 @@
+[
+  {
+    "version": "1.2.0",
+    "date": "2026-03-18",
+    "description": {
+      "en": "Major update bringing Notification Settings and School Events Library.",
+      "fr": "Mise à jour majeure apportant les paramètres de notification et la bibliothèque d'événements scolaires.",
+      "ar": "تحديث رئيسي يجلب إعدادات الإشعارات ومكتبة الأحداث المدرسية."
+    },
+    "changes": {
+      "en": [
+        "Added Notification Settings screen to customize alerts.",
+        "Introduced School Events Library with predefined templates.",
+        "Unified Cairo font across all screens for a premium feel.",
+        "Improved Light Mode colors and contrast.",
+        "Fixed minor bugs in average calculation for bonus subjects."
+      ],
+      "fr": [
+        "Ajout de l'écran des paramètres de notification pour personnaliser les alertes.",
+        "Introduction de la bibliothèque d'événements scolaires avec des modèles prédéfinis.",
+        "Unification de la police Cairo sur tous les écrans pour un aspect premium.",
+        "Amélioration des couleurs et du contraste du mode clair.",
+        "Correction de bugs mineurs dans le calcul de la moyenne pour les matières bonus."
+      ],
+      "ar": [
+        "إضافة شاشة إعدادات الإشعارات لتخصيص التنبيهات.",
+        "تقديم مكتبة الأحداث المدرسية مع نماذج محددة مسبقاً.",
+        "توحيد خط 'Cairo' في جميع الشاشات لمظهر احترافي.",
+        "تحسين ألوان وتباين الوضع الفاتح.",
+        "إصلاح أخطاء بسيطة في حساب المعدل للمواد الإضافية."
+      ]
+    }
+  },
+  {
+    "version": "1.1.0",
+    "date": "2026-03-10",
+    "description": {
+      "en": "Initial release with Core Average Counting features.",
+      "fr": "Première version avec les fonctionnalités de base du calcul de moyenne.",
+      "ar": "الإصدار الأولي مع ميزات حساب المعدل الأساسية."
+    },
+    "changes": {
+      "en": [
+        "Added multi-level support (Primary, Middle, High School).",
+        "Implemented real-time average calculation.",
+        "Save and manage multiple report cards.",
+        "Basic localization for FR and AR."
+      ],
+      "fr": [
+        "Ajout du support multi-niveaux (Primaire, Moyen, Lycée).",
+        "Implémentation du calcul de la moyenne en temps réel.",
+        "Sauvegarde et gestion de plusieurs bulletins de notes.",
+        "Localisation de base pour FR et AR."
+      ],
+      "ar": [
+        "إضافة دعم مستويات متعددة (ابتدائي، متوسط، ثانوي).",
+        "تنفيذ حساب المعدل في الوقت الحقيقي.",
+        "حفظ وإدارة كشوفات نقاط متعددة.",
+        "تعريب أساسي للغتين الفرنسية والعربية."
+      ]
+    }
+  },
+  {
+    "version": "1.0.3",
+    "date": "2026-03-05",
+    "description": {
+      "en": "Improved support for Arabic typography and RTL layouts.",
+      "fr": "Amélioration de la typographie arabe et des mises en page RTL.",
+      "ar": "تحسين دعم الخطوط العربية وتنسيقات اليمين إلى اليسار."
+    },
+    "changes": {
+      "en": [
+        "Fixed text alignment in Arabic menus.",
+        "Optimized Arabic font loading for faster performance.",
+        "Fine-tuned RTL spacing adjustments across all screens."
+      ],
+      "fr": [
+        "Correction de l'alignement du texte dans les menus arabes.",
+        "Optimisation du chargement des polices arabes.",
+        "Ajustements de l'espacement RTL sur tous les écrans."
+      ],
+      "ar": [
+        "إصلاح محاذاة النص في القوائم العربية.",
+        "تحسين تحميل الخطوط العربية لأداء أسرع.",
+        "ضبط دقيق لفراغات اليمين إلى اليسار في جميع الشاشات."
+      ]
+    }
+  }
+]
