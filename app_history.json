@@ -5,7 +5,7 @@
     "description": {
       "en": "Major update bringing Notification Settings and School Events Library.",
       "fr": "Mise à jour majeure apportant les paramètres de notification et la bibliothèque d'événements scolaires.",
-      "ar": " تحديث رئيسي يجلب إعدادات الإشعارات ومكتبة الأحداث المدرسية ."
+      "ar": "تحديث رئيسي يجلب إعدادات الإشعارات ومكتبة الأحداث المدرسية."
     },
     "changes": {
       "en": [
@@ -28,6 +28,119 @@
         "توحيد خط 'Cairo' في جميع الشاشات لمظهر احترافي.",
         "تحسين ألوان وتباين الوضع الفاتح.",
         "إصلاح أخطاء بسيطة في حساب المعدل للمواد الإضافية."
+      ]
+    }
+  },
+  {
+    "version": "1.1.4",
+    "date": "2026-03-15",
+    "description": {
+      "en": "Minor performance tweaks and bug fixes for high school modules.",
+      "fr": "Petites améliorations des performances et corrections de bugs pour les modules du lycée.",
+      "ar": "تحسينات طفيفة في الأداء وإصلاح أخطاء لموديولات الثانوي."
+    },
+    "changes": {
+      "en": [
+        "Optimized high school average calculation speed.",
+        "Fixed crash when entering empty bonus subject.",
+        "Adjusted theme colors for better readability.",
+        "Added small animations to buttons."
+      ],
+      "fr": [
+        "Optimisation de la vitesse de calcul de la moyenne au lycée.",
+        "Correction du crash lors de l'entrée d'une matière bonus vide.",
+        "Ajustement des couleurs du thème pour une meilleure lisibilité.",
+        "Ajout de petites animations aux boutons."
+      ],
+      "ar": [
+        "تحسين سرعة حساب المعدل للثانوي.",
+        "إصلاح تعطل عند إدخال مادة إضافية فارغة.",
+        "تعديل ألوان الثيم لسهولة القراءة.",
+        "إضافة حركات صغيرة للأزرار."
+      ]
+    }
+  },
+  {
+    "version": "1.1.3",
+    "date": "2026-03-13",
+    "description": {
+      "en": "Enhanced UI and added support for French localization in middle school.",
+      "fr": "Interface améliorée et ajout du support pour la localisation française au collège.",
+      "ar": "تحسين واجهة المستخدم وإضافة دعم التعريب الفرنسي للمتوسط."
+    },
+    "changes": {
+      "en": [
+        "Improved middle school UI layout.",
+        "Added tooltips for new users.",
+        "Fixed text overflow issues in French.",
+        "Updated icons for clarity."
+      ],
+      "fr": [
+        "Amélioration de la mise en page du collège.",
+        "Ajout de bulles d'aide pour les nouveaux utilisateurs.",
+        "Correction des débordements de texte en français.",
+        "Mise à jour des icônes pour plus de clarté."
+      ],
+      "ar": [
+        "تحسين واجهة المستخدم للمتوسط.",
+        "إضافة تلميحات للمستخدمين الجدد.",
+        "إصلاح مشاكل النصوص الطويلة بالفرنسية.",
+        "تحديث الأيقونات لزيادة الوضوح."
+      ]
+    }
+  },
+  {
+    "version": "1.1.2",
+    "date": "2026-03-12",
+    "description": {
+      "en": "Bug fixes and small improvements in average calculation logic.",
+      "fr": "Corrections de bugs et petites améliorations dans la logique de calcul de la moyenne.",
+      "ar": "إصلاحات أخطاء وتحسينات صغيرة في منطق حساب المعدل."
+    },
+    "changes": {
+      "en": [
+        "Corrected calculation for edge cases with optional subjects.",
+        "Fixed UI glitches on small screens.",
+        "Improved input validation for scores.",
+        "Enhanced error messages for clarity."
+      ],
+      "fr": [
+        "Correction du calcul pour les cas particuliers avec des matières optionnelles.",
+        "Correction des problèmes d'interface sur les petits écrans.",
+        "Amélioration de la validation des notes.",
+        "Messages d'erreur plus clairs."
+      ],
+      "ar": [
+        "تصحيح الحساب في الحالات الخاصة مع المواد الاختيارية.",
+        "إصلاح مشاكل واجهة المستخدم على الشاشات الصغيرة.",
+        "تحسين التحقق من صحة الدرجات.",
+        "رسائل خطأ أكثر وضوحاً."
+      ]
+    }
+  },
+  {
+    "version": "1.1.1",
+    "date": "2026-03-11",
+    "description": {
+      "en": "Initial bug fixes after first release.",
+      "fr": "Premières corrections de bugs après la première version.",
+      "ar": "أول إصلاحات للأخطاء بعد الإصدار الأول."
+    },
+    "changes": {
+      "en": [
+        "Fixed crash when no level selected.",
+        "Corrected average display rounding.",
+        "Minor UI adjustments in light mode."
+      ],
+      "fr": [
+        "Correction du crash lorsqu'aucun niveau n'est sélectionné.",
+        "Correction de l'arrondi de l'affichage de la moyenne.",
+        "Ajustements mineurs de l'interface en mode clair."
+      ],
+      "ar": [
+        "إصلاح التعطل عند عدم اختيار المستوى.",
+        "تصحيح تقريب عرض المعدل.",
+        "تعديلات صغيرة على واجهة المستخدم في الوضع الفاتح."
       ]
     }
   },
@@ -57,32 +170,6 @@
         "تنفيذ حساب المعدل في الوقت الحقيقي.",
         "حفظ وإدارة كشوفات نقاط متعددة.",
         "تعريب أساسي للغتين الفرنسية والعربية."
-      ]
-    }
-  },
-  {
-    "version": "1.0.4",
-    "date": "2026-03-05",
-    "description": {
-      "en": "Improved support for Arabic typography and RTL layouts.",
-      "fr": "Amélioration de la typographie arabe et des mises en page RTL.",
-      "ar": "تحسين دعم الخطوط العربية وتنسيقات اليمين إلى اليسار."
-    },
-    "changes": {
-      "en": [
-        "Fixed text alignment in Arabic menus.",
-        "Optimized Arabic font loading for faster performance.",
-        "Fine-tuned RTL spacing adjustments across all screens."
-      ],
-      "fr": [
-        "Correction de l'alignement du texte dans les menus arabes.",
-        "Optimisation du chargement des polices arabes.",
-        "Ajustements de l'espacement RTL sur tous les écrans."
-      ],
-      "ar": [
-        "إصلاح محاذاة النص في القوائم العربية.",
-        "تحسين تحميل الخطوط العربية لأداء أسرع.",
-        "ضبط دقيق لفراغات اليمين إلى اليسار في جميع الشاشات."
       ]
     }
   }
