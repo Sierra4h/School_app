@@ -85,5 +85,31 @@
         "ضبط دقيق لفراغات اليمين إلى اليسار في جميع الشاشات."
       ]
     }
+  },
+    {
+    "version": "1.0.3",
+    "date": "2026-03-05",
+    "description": {
+      "en": "Improved support for Arabic typography and RTL layouts.",
+      "fr": "Amélioration de la typographie arabe et des mises en page RTL.",
+      "ar": "تحسين دعم الخطوط العربية وتنسيقات اليمين إلى اليسار."
+    },
+    "changes": {
+      "en": [
+        "Fixed text alignment in Arabic menus.",
+        "Optimized Arabic font loading for faster performance.",
+        "Fine-tuned RTL spacing adjustments across all screens."
+      ],
+      "fr": [
+        "Correction de l'alignement du texte dans les menus arabes.",
+        "Optimisation du chargement des polices arabes.",
+        "Ajustements de l'espacement RTL sur tous les écrans."
+      ],
+      "ar": [
+        "إصلاح محاذاة النص في القوائم العربية.",
+        "تحسين تحميل الخطوط العربية لأداء أسرع.",
+        "ضبط دقيق لفراغات اليمين إلى اليسار في جميع الشاشات."
+      ]
+    }
   }
 ]
