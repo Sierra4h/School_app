@@ -87,7 +87,7 @@
     }
   },
     {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "date": "2026-03-05",
     "description": {
       "en": "Improved support for Arabic typography and RTL layouts.",
