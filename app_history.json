@@ -1,4 +1,30 @@
 [
+
+
+
+{
+  "version": "1.2.1",
+  "date": "2026-03-23",
+  "description": {
+    "en": "Minor update with bug fixes and color improvements.",
+    "fr": "Mise à jour mineure avec corrections de bugs et amélioration des couleurs.",
+    "ar": "تحديث بسيط يتضمن إصلاحات أخطاء وتحسين الألوان."
+  },
+  "changes": {
+    "en": [
+      "Fixed various minor bugs for better stability.",
+      "Improved app colors and visual consistency."
+    ],
+    "fr": [
+      "Correction de plusieurs bugs mineurs pour une meilleure stabilité.",
+      "Amélioration des couleurs et de la cohérence visuelle de l'application."
+    ],
+    "ar": [
+      "إصلاح عدة أخطاء بسيطة لتحسين الاستقرار.",
+      "تحسين الألوان والتناسق البصري للتطبيق."
+    ]
+  }
+},
   {
     "version": "1.2.0",
     "date": "2026-03-18",
