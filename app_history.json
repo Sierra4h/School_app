@@ -1,4 +1,242 @@
 [
+
+   {
+    "version": "1.4.10",
+    "date": "2026-03-27",
+    "description": {
+      "en": "Final improvements and stability updates for AI system.",
+      "fr": "Améliorations finales et stabilité du système IA.",
+      "ar": "تحسينات نهائية واستقرار نظام الذكاء الاصطناعي."
+    },
+    "changes": {
+      "en": [
+        "Expanded AI capabilities.",
+        "Improved overall stability.",
+        "Fixed remaining bugs.",
+        "Enhanced UI consistency."
+      ],
+      "fr": [
+        "Extension des capacités IA.",
+        "Amélioration de la stabilité.",
+        "Correction des bugs restants.",
+        "Amélioration de la cohérence visuelle."
+      ],
+      "ar": [
+        "توسيع قدرات الذكاء الاصطناعي.",
+        "تحسين الاستقرار.",
+        "إصلاح الأخطاء المتبقية.",
+        "تحسين التناسق البصري."
+      ]
+    }
+  },
+  {
+    "version": "1.4.8",
+    "date": "2026-03-27",
+    "description": {
+      "en": "Advanced animations and performance tuning.",
+      "fr": "Animations avancées et optimisation.",
+      "ar": "أنيميشن متقدم وتحسين الأداء."
+    },
+    "changes": {
+      "en": [
+        "Added smooth animations to AI button.",
+        "Optimized rendering performance.",
+        "Reduced lag during transitions."
+      ],
+      "fr": [
+        "Ajout d'animations fluides au bouton IA.",
+        "Optimisation du rendu.",
+        "Réduction des ralentissements."
+      ],
+      "ar": [
+        "إضافة أنيميشن سلس لزر الذكاء الاصطناعي.",
+        "تحسين الأداء.",
+        "تقليل التقطعات."
+      ]
+    }
+  },
+  {
+    "version": "1.4.5",
+    "date": "2026-03-27",
+    "description": {
+      "en": "AI interface improvements and initial enhancements.",
+      "fr": "Améliorations de l'interface IA.",
+      "ar": "تحسين واجهة الذكاء الاصطناعي."
+    },
+    "changes": {
+      "en": [
+        "Improved AI screen UI.",
+        "Added initial AI interaction features.",
+        "Enhanced responsiveness."
+      ],
+      "fr": [
+        "Amélioration de l'interface IA.",
+        "Ajout des premières fonctionnalités IA.",
+        "Amélioration de la réactivité."
+      ],
+      "ar": [
+        "تحسين واجهة الذكاء الاصطناعي.",
+        "إضافة ميزات تفاعل أولية.",
+        "تحسين الاستجابة."
+      ]
+    }
+  },
+  {
+    "version": "1.4.0",
+    "date": "2026-03-26",
+    "description": {
+      "en": "AI screen introduced with basic functionality.",
+      "fr": "Introduction de l'écran IA avec des fonctionnalités de base.",
+      "ar": "إضافة شاشة الذكاء الاصطناعي بوظائف أساسية."
+    },
+    "changes": {
+      "en": [
+        "Added AI screen.",
+        "Added basic AI access button.",
+        "Improved navigation structure."
+      ],
+      "fr": [
+        "Ajout de l'écran IA.",
+        "Ajout d'un bouton d'accès basique.",
+        "Amélioration de la navigation."
+      ],
+      "ar": [
+        "إضافة شاشة الذكاء الاصطناعي.",
+        "إضافة زر أساسي للدخول.",
+        "تحسين هيكل التنقل."
+      ]
+    }
+  },
+  {
+    "version": "1.3.8",
+    "date": "2026-03-26",
+    "description": {
+      "en": "Performance and animation improvements.",
+      "fr": "Améliorations des performances et des animations.",
+      "ar": "تحسين الأداء والأنيميشن."
+    },
+    "changes": {
+      "en": [
+        "Optimized animations.",
+        "Reduced FPS drops.",
+        "Improved transitions."
+      ],
+      "fr": [
+        "Optimisation des animations.",
+        "Réduction des chutes de FPS.",
+        "Amélioration des transitions."
+      ],
+      "ar": [
+        "تحسين الأنيميشن.",
+        "تقليل انخفاض FPS.",
+        "تحسين الانتقالات."
+      ]
+    }
+  },
+  {
+    "version": "1.3.6",
+    "date": "2026-03-26",
+    "description": {
+      "en": "New features added to planning system.",
+      "fr": "Ajout de nouvelles fonctionnalités au système de planning.",
+      "ar": "إضافة ميزات جديدة لنظام التخطيط."
+    },
+    "changes": {
+      "en": [
+        "Added task management features.",
+        "Improved data handling.",
+        "Fixed minor bugs."
+      ],
+      "fr": [
+        "Ajout de gestion des tâches.",
+        "Amélioration du traitement des données.",
+        "Correction de bugs mineurs."
+      ],
+      "ar": [
+        "إضافة إدارة المهام.",
+        "تحسين معالجة البيانات.",
+        "إصلاح أخطاء بسيطة."
+      ]
+    }
+  },
+  {
+    "version": "1.3.5",
+    "date": "2026-03-25",
+    "description": {
+      "en": "Stability improvements and UI polishing.",
+      "fr": "Amélioration de la stabilité et du design.",
+      "ar": "تحسين الاستقرار وتجميل الواجهة."
+    },
+    "changes": {
+      "en": [
+        "Fixed layout issues.",
+        "Improved color consistency.",
+        "Optimized performance."
+      ],
+      "fr": [
+        "Correction des problèmes de mise en page.",
+        "Amélioration des couleurs.",
+        "Optimisation des performances."
+      ],
+      "ar": [
+        "إصلاح مشاكل التصميم.",
+        "تحسين الألوان.",
+        "تحسين الأداء."
+      ]
+    }
+  },
+  {
+    "version": "1.3.4",
+    "date": "2026-03-25",
+    "description": {
+      "en": "Enhancements to planning features and UI.",
+      "fr": "Améliorations des fonctionnalités de planning et de l'interface.",
+      "ar": "تحسينات على ميزات التخطيط والواجهة."
+    },
+    "changes": {
+      "en": [
+        "Improved planning screen usability.",
+        "Added basic animations.",
+        "Enhanced navigation flow."
+      ],
+      "fr": [
+        "Amélioration de l'utilisation de l'écran de planning.",
+        "Ajout d'animations basiques.",
+        "Amélioration de la navigation."
+      ],
+      "ar": [
+        "تحسين سهولة استخدام شاشة التخطيط.",
+        "إضافة أنيميشن بسيط.",
+        "تحسين التنقل داخل التطبيق."
+      ]
+    }
+  },
+  {
+    "version": "1.3.2",
+    "date": "2026-03-25",
+    "description": {
+      "en": "Planning screen introduced with initial improvements.",
+      "fr": "Introduction de l'écran de planning avec des améliorations initiales.",
+      "ar": "إضافة شاشة التخطيط مع تحسينات أولية."
+    },
+    "changes": {
+      "en": [
+        "Added planning screen.",
+        "Improved basic UI layout.",
+        "Fixed minor bugs."
+      ],
+      "fr": [
+        "Ajout de l'écran de planning.",
+        "Amélioration de l'interface de base.",
+        "Correction de bugs mineurs."
+      ],
+      "ar": [
+        "إضافة شاشة التخطيط.",
+        "تحسين الواجهة الأساسية.",
+        "إصلاح أخطاء بسيطة."
+      ]
+    }
+  },
 {
   "version": "1.2.1",
   "date": "2026-03-23",
